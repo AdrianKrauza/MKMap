@@ -1,0 +1,23 @@
+{
+  "name": "kmmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianKrauza/MKMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianKrauza/MKMap/issues"
+  },
+  "homepage": "https://github.com/AdrianKrauza/MKMap#readme"
+}
